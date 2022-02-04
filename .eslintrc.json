@@ -19,6 +19,7 @@
       "import/extensions": "off",
       "no-console": "off",
       "linebreak-style": 0 ,
-      "no-underscore-dangle": "off"
+      "no-underscore-dangle": "off",
+      "class-methods-use-this": "off"
     }
 }
