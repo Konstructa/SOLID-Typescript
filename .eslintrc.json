@@ -20,5 +20,6 @@
       "no-console": "off",
       "linebreak-style": 0 ,
       "no-underscore-dangle": "off"
+      /* "no-useless-constructor": "off" */
     }
 }
