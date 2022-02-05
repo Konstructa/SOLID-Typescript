@@ -12,8 +12,8 @@ export class Order {
   constructor(
     private readonly cart: ShoppingCart,
     private readonly messaging: Messaging,
-    private readonly persistency: Persistency 
-    ) {}
+    private readonly persistency: Persistency,
+  ) {}
 
   get orderStatus(): OrderStatus {
     return this._orderStatus;
