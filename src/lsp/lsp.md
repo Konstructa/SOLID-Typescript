@@ -8,3 +8,5 @@ deve ser verdadeiro para objetos y de tipo S onde S é um subtipo de T.
 
 - Mais simples ainda: Se meu programa espera um Animal, algo do tipo
 Cachorro (que herda de Animal) deve servir como qualquer outro Animal.
+
+- O exemplo nessa atividade é class abstrata Discount, ela possui um método que obrigatoriamente todos possuem, além de você não poder sobrescrever, nem alterar o tipo de retorn do métedo.
